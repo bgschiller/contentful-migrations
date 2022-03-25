@@ -1,0 +1,14 @@
+{
+  "name": "contentful-migrations",
+  "version": "1.0.0",
+  "description": "Apply and track contentful migrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Schiller <bgschiller@gmail.com> (https://brianschiller.com)",
+  "license": "MIT",
+  "dependencies": {
+    "contentful-migration": "^4.8.1"
+  }
+}
