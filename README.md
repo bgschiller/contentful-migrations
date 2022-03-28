@@ -1,6 +1,8 @@
 Contentful Migration Strategy
 -----------------------------
 
+**UPDATE** Please consider using [deluan/contentful-migrations](https://github.com/deluan/contentful-migrate) instead, as it's more battle-tested and I don't intend to support this project.
+
 ### Motivation
 
 I wasn't satisfied with contentful migrations. I wrote a [blog post](https://brianschiller.com/blog/2022/03/24/contentful-isnt-for-me) about it, but the quick version is that I wanted to be able to
